@@ -1,0 +1,502 @@
+{
+  "YELLOW_CRUST_OOZE": [
+    "yellow crust ooze",
+    "ooze crust yellow"
+  ],
+  "PAIN_DURING_BOWEL_MOVEMENTS": [
+    "movements bowel during pain",
+    "pain during bowel movements"
+  ],
+  "SPINNING_MOVEMENTS": [
+    "movements spinning",
+    "spinning movements"
+  ],
+  "POLYURIA": [
+    "polyuria"
+  ],
+  "BRUISING": [
+    "bruising"
+  ],
+  "DARK_URINE": [
+    "urine dark",
+    "dark urine"
+  ],
+  "PATCHES_IN_THROAT": [
+    "patches in throat",
+    "throat in patches"
+  ],
+  "IRREGULAR_SUGAR_LEVEL": [
+    "irregular sugar level",
+    "level sugar irregular"
+  ],
+  "BLACKHEADS": [
+    "blackheads"
+  ],
+  "FOUL_SMELL_OF_URINE": [
+    "foul smell of urine",
+    "urine of smell foul"
+  ],
+  "PHLEGM": [
+    "phlegm"
+  ],
+  "BLURRED_AND_DISTORTED_VISION": [
+    "vision distorted and blurred",
+    "blurred and distorted vision"
+  ],
+  "WATERING_FROM_EYES": [
+    "watering from eyes",
+    "eyes from watering"
+  ],
+  "YELLOW_URINE": [
+    "yellow urine",
+    "urine yellow"
+  ],
+  "COMA": [
+    "coma"
+  ],
+  "PALPITATIONS": [
+    "palpitations"
+  ],
+  "INTERNAL_ITCHING": [
+    "itching internal",
+    "internal itching"
+  ],
+  "PROMINENT_VEINS_ON_CALF": [
+    "prominent veins on calf",
+    "calf on veins prominent"
+  ],
+  "DISTENTION_OF_ABDOMEN": [
+    "abdomen of distention",
+    "distention of abdomen"
+  ],
+  "BELLY_PAIN": [
+    "belly pain",
+    "belly ache",
+    "pain belly"
+  ],
+  "HIGH_FEVER": [
+    "high fever",
+    "fever high"
+  ],
+  "SKIN_PEELING": [
+    "skin peeling",
+    "peeling skin"
+  ],
+  "RESTLESSNESS": [
+    "restlessness"
+  ],
+  "SHIVERING": [
+    "shivering"
+  ],
+  "PUFFY_FACE_AND_EYES": [
+    "puffy face and eyes",
+    "eyes and face puffy"
+  ],
+  "BLADDER_DISCOMFORT": [
+    "discomfort bladder",
+    "bladder discomfort"
+  ],
+  "SWOLLEN_EXTREMETIES": [
+    "extremeties swollen",
+    "swollen extremeties"
+  ],
+  "IRRITATION_IN_ANUS": [
+    "anus in irritation",
+    "irritation in anus"
+  ],
+  "WEAKNESS_OF_ONE_BODY_SIDE": [
+    "side body one of weakness",
+    "weakness of one body side"
+  ],
+  "YELLOWING_OF_EYES": [
+    "eyes of yellowing",
+    "yellowing of eyes"
+  ],
+  "SWOLLEN_BLOOD_VESSELS": [
+    "swollen blood vessels",
+    "vessels blood swollen"
+  ],
+  "VOMITING": [
+    "vomiting"
+  ],
+  "SILVER_LIKE_DUSTING": [
+    "dusting like silver",
+    "silver like dusting"
+  ],
+  "EXTRA_MARITAL_CONTACTS": [
+    "extra marital contacts",
+    "contacts marital extra"
+  ],
+  "PAIN_IN_ANAL_REGION": [
+    "region anal in pain",
+    "pain in anal region"
+  ],
+  "NAUSEA": [
+    "nausea"
+  ],
+  "SPOTTING__URINATION": [
+    "spotting  urination",
+    "urination spotting"
+  ],
+  "IRRITABILITY": [
+    "irritability"
+  ],
+  "RECEIVING_BLOOD_TRANSFUSION": [
+    "receiving blood transfusion",
+    "transfusion blood receiving"
+  ],
+  "INDIGESTION": [
+    "indigestion"
+  ],
+  "VISUAL_DISTURBANCES": [
+    "disturbances visual",
+    "visual disturbances"
+  ],
+  "OBESITY": [
+    "obesity"
+  ],
+  "SMALL_DENTS_IN_NAILS": [
+    "small dents in nails",
+    "nails in dents small"
+  ],
+  "INCREASED_APPETITE": [
+    "appetite increased",
+    "increased appetite"
+  ],
+  "PUS_FILLED_PIMPLES": [
+    "pimples filled pus",
+    "pus filled pimples"
+  ],
+  "RECEIVING_UNSTERILE_INJECTIONS": [
+    "receiving unsterile injections",
+    "injections unsterile receiving"
+  ],
+  "ULCERS_ON_TONGUE": [
+    "ulcers on tongue",
+    "tongue on ulcers"
+  ],
+  "SLURRED_SPEECH": [
+    "slurred speech",
+    "speech slurred"
+  ],
+  "SUNKEN_EYES": [
+    "sunken eyes",
+    "eyes sunken"
+  ],
+  "MOOD_SWINGS": [
+    "swings mood",
+    "mood swings"
+  ],
+  "HISTORY_OF_ALCOHOL_CONSUMPTION": [
+    "history of alcohol consumption",
+    "consumption alcohol of history"
+  ],
+  "FAST_HEART_RATE": [
+    "rate heart fast",
+    "fast heart rate"
+  ],
+  "NODAL_SKIN_ERUPTIONS": [
+    "nodal skin eruptions",
+    "eruptions skin nodal"
+  ],
+  "EXCESSIVE_HUNGER": [
+    "excessive hunger",
+    "hunger excessive"
+  ],
+  "DISCHROMIC__PATCHES": [
+    "dischromic  patches",
+    "patches dischromic"
+  ],
+  "CHILLS": [
+    "chills"
+  ],
+  "FLUID_OVERLOAD": [
+    "fluid overload",
+    "overload fluid"
+  ],
+  "NECK_PAIN": [
+    "pain neck",
+    "neck pain",
+    "neck ache"
+  ],
+  "DIZZINESS": [
+    "dizziness"
+  ],
+  "UNSTEADINESS": [
+    "unsteadiness"
+  ],
+  "CHEST_PAIN": [
+    "chest ache",
+    "pain chest",
+    "chest pain"
+  ],
+  "RED_SPOTS_OVER_BODY": [
+    "body over spots red",
+    "red spots over body"
+  ],
+  "MUSCLE_WEAKNESS": [
+    "weakness muscle",
+    "muscle weakness"
+  ],
+  "LETHARGY": [
+    "lethargy"
+  ],
+  "MILD_FEVER": [
+    "fever mild",
+    "mild fever"
+  ],
+  "BREATHLESSNESS": [
+    "breathlessness"
+  ],
+  "KNEE_PAIN": [
+    "knee ache",
+    "pain knee",
+    "knee pain"
+  ],
+  "BLOODY_STOOL": [
+    "bloody stool",
+    "stool bloody"
+  ],
+  "MOVEMENT_STIFFNESS": [
+    "stiffness movement",
+    "movement stiffness"
+  ],
+  "MUSCLE_WASTING": [
+    "wasting muscle",
+    "muscle wasting"
+  ],
+  "SWELLED_LYMPH_NODES": [
+    "nodes lymph swelled",
+    "swelled lymph nodes"
+  ],
+  "MUSCLE_PAIN": [
+    "muscle pain",
+    "pain muscle",
+    "muscle ache"
+  ],
+  "PASSAGE_OF_GASES": [
+    "passage of gases",
+    "gases of passage"
+  ],
+  "COUGH": [
+    "cough"
+  ],
+  "BURNING_MICTURITION": [
+    "micturition burning",
+    "burning micturition"
+  ],
+  "BLISTER": [
+    "blister"
+  ],
+  "TOXIC_LOOK_TYPHOS": [
+    "toxic look typhos",
+    "typhos look toxic"
+  ],
+  "ACUTE_LIVER_FAILURE": [
+    "acute liver failure",
+    "failure liver acute"
+  ],
+  "ITCHING": [
+    "itching"
+  ],
+  "LACK_OF_CONCENTRATION": [
+    "lack of concentration",
+    "concentration of lack"
+  ],
+  "LOSS_OF_BALANCE": [
+    "loss of balance",
+    "balance of loss"
+  ],
+  "DIARRHOEA": [
+    "diarrhoea"
+  ],
+  "CONTINUOUS_SNEEZING": [
+    "continuous sneezing",
+    "sneezing continuous"
+  ],
+  "BRITTLE_NAILS": [
+    "nails brittle",
+    "brittle nails"
+  ],
+  "ABDOMINAL_PAIN": [
+    "pain abdominal",
+    "abdominal pain",
+    "abdominal ache"
+  ],
+  "CONGESTION": [
+    "congestion"
+  ],
+  "CONTINUOUS_FEEL_OF_URINE": [
+    "urine of feel continuous",
+    "continuous feel of urine"
+  ],
+  "WEIGHT_GAIN": [
+    "weight gain",
+    "gain weight"
+  ],
+  "YELLOWISH_SKIN": [
+    "yellowish skin",
+    "skin yellowish"
+  ],
+  "FATIGUE": [
+    "fatigue"
+  ],
+  "SCURRING": [
+    "scurring"
+  ],
+  "JOINT_PAIN": [
+    "joint ache",
+    "pain joint",
+    "joint pain"
+  ],
+  "INFLAMMATORY_NAILS": [
+    "inflammatory nails",
+    "nails inflammatory"
+  ],
+  "WEIGHT_LOSS": [
+    "loss weight",
+    "weight loss"
+  ],
+  "HIP_JOINT_PAIN": [
+    "hip joint pain",
+    "hip joint ache",
+    "pain joint hip"
+  ],
+  "REDNESS_OF_EYES": [
+    "redness of eyes",
+    "eyes of redness"
+  ],
+  "RUNNY_NOSE": [
+    "runny nose",
+    "nose runny"
+  ],
+  "STIFF_NECK": [
+    "stiff neck",
+    "neck stiff"
+  ],
+  "RUSTY_SPUTUM": [
+    "rusty sputum",
+    "sputum rusty"
+  ],
+  "LOSS_OF_APPETITE": [
+    "appetite of loss",
+    "loss of appetite"
+  ],
+  "ENLARGED_THYROID": [
+    "enlarged thyroid",
+    "thyroid enlarged"
+  ],
+  "STOMACH_PAIN": [
+    "stomach ache",
+    "pain stomach",
+    "stomach pain"
+  ],
+  "THROAT_IRRITATION": [
+    "irritation throat",
+    "throat irritation"
+  ],
+  "RED_SORE_AROUND_NOSE": [
+    "red sore around nose",
+    "nose around sore red"
+  ],
+  "CRAMPS": [
+    "cramps"
+  ],
+  "WEAKNESS_IN_LIMBS": [
+    "limbs in weakness",
+    "weakness in limbs"
+  ],
+  "DEPRESSION": [
+    "depression"
+  ],
+  "LOSS_OF_SMELL": [
+    "smell of loss",
+    "loss of smell"
+  ],
+  "STOMACH_BLEEDING": [
+    "stomach bleeding",
+    "bleeding stomach"
+  ],
+  "SWEATING": [
+    "sweating"
+  ],
+  "MALAISE": [
+    "malaise"
+  ],
+  "PAINFUL_WALKING": [
+    "walking painful",
+    "painful walking"
+  ],
+  "SWOLLEN_LEGS": [
+    "swollen legs",
+    "legs swollen"
+  ],
+  "DRYING_AND_TINGLING_LIPS": [
+    "drying and tingling lips",
+    "lips tingling and drying"
+  ],
+  "ALTERED_SENSORIUM": [
+    "altered sensorium",
+    "sensorium altered"
+  ],
+  "BLOOD_IN_SPUTUM": [
+    "sputum in blood",
+    "blood in sputum"
+  ],
+  "DEHYDRATION": [
+    "dehydration"
+  ],
+  "SINUS_PRESSURE": [
+    "sinus pressure",
+    "pressure sinus"
+  ],
+  "FAMILY_HISTORY": [
+    "family history",
+    "history family"
+  ],
+  "PAIN_BEHIND_THE_EYES": [
+    "eyes the behind pain",
+    "pain behind the eyes"
+  ],
+  "ABNORMAL_MENSTRUATION": [
+    "abnormal menstruation",
+    "menstruation abnormal"
+  ],
+  "HEADACHE": [
+    "headache"
+  ],
+  "SWELLING_JOINTS": [
+    "joints swelling",
+    "swelling joints"
+  ],
+  "ACIDITY": [
+    "acidity"
+  ],
+  "COLD_HANDS_AND_FEETS": [
+    "cold hands and feets",
+    "feets and hands cold"
+  ],
+  "ANXIETY": [
+    "anxiety"
+  ],
+  "CONSTIPATION": [
+    "constipation"
+  ],
+  "BACK_PAIN": [
+    "back pain",
+    "pain back",
+    "back ache"
+  ],
+  "SWELLING_OF_STOMACH": [
+    "swelling of stomach",
+    "stomach of swelling"
+  ],
+  "MUCOID_SPUTUM": [
+    "mucoid sputum",
+    "sputum mucoid"
+  ],
+  "SKIN_RASH": [
+    "skin rash",
+    "rash skin"
+  ]
+}
