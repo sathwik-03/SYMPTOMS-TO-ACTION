@@ -1,0 +1,8 @@
+frontend/node_modules
+.venv/
+venv/
+__pycache__/
+.next/
+*.pkl
+data/
+rag_data/
