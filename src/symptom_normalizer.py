@@ -3,8 +3,12 @@ import re
 import json
 import numpy as np
 from functools import lru_cache
-from sentence_transformers import SentenceTransformer
-from sklearn.metrics.pairwise import cosine_similarity
+try:
+    from sentence_transformers import SentenceTransformer
+    from sklearn.metrics.pairwise import cosine_similarity
+    HAS_SENTENCE_TRANSFORMERS = True
+except ImportError:
+    HAS_SENTENCE_TRANSFORMERS = False
 import os
 
 
@@ -21,7 +25,6 @@ class SymptomNormalizer:
                 raise FileNotFoundError("Could not find dataset.csv in current or parent directory")
         
         self.model_name = model_name
-        self.model = SentenceTransformer(model_name)
         self.dataset_path = dataset_path
         
         # Load data
@@ -31,8 +34,12 @@ class SymptomNormalizer:
         # Build canonical symptoms
         self._build_canonical_symptoms()
         
-        # Create embeddings
-        self._create_embeddings()
+        # Create embeddings only if available
+        if HAS_SENTENCE_TRANSFORMERS:
+            self.model = SentenceTransformer(model_name)
+            self._create_embeddings()
+        else:
+            print("Running in lightweight mode without SentenceTransformers")
         
         # Build symptom map
         self._build_symptom_map()
@@ -126,6 +133,15 @@ class SymptomNormalizer:
         # Check if already in map
         if symptom in self.symptom_map:
             return self.symptom_map[symptom], 1.0
+            
+        # Fallback keyword match
+        for k, aliases in self.canonical_symptoms.items():
+            if symptom in [a.lower() for a in aliases]:
+                return k, 1.0
+                
+        if not HAS_SENTENCE_TRANSFORMERS:
+            # Without model, we only rely on exact matches
+            return None, None
         
         # Use semantic matching
         emb = self.model.encode([symptom])
